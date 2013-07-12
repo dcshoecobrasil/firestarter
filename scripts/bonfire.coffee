@@ -1,5 +1,5 @@
 # Description:
-#   Draw a bonfire
+#   Draw a bonfire ASCII text art!
 #Author: dcshoecobrasil
 
 module.exports = (robot) ->
